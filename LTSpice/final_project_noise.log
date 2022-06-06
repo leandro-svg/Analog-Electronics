@@ -1,0 +1,51 @@
+Circuit: * C:\Users\leand\OneDrive\Documents\ULB\ULB course\Master 1\Analog electronics\Analog Electronics\2022\LTSpice\final_project_noise.asc
+
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning:  Acde = 0.0146993 is too small.
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Warning: No WPE as none of SCA, SCB, SCC, SC is given and/or SC not positive.
+Warning: LTspice uses BSIM4 version 4.6.1. Your model specified an unrecognized version number: 4.5000e+00
+Direct Newton iteration for .op point succeeded.
+
+out_totnvrms: INTEG(v(onoise))=0.015487 FROM 1000 TO 1e+009
+out_mp1nvrms: INTEG(v(mp1))=0.0107594 FROM 1000 TO 1e+009
+out_mp2nvrms: INTEG(v(mp2))=0.0109016 FROM 1000 TO 1e+009
+out_mp7nvrms: INTEG(v(mp7))=0.00010321 FROM 1000 TO 1e+009
+out_mp8nvrms: INTEG(v(mp8))=2.74387e-005 FROM 1000 TO 1e+009
+out_mp5nvrms: INTEG(v(mp5))=9.46637e-005 FROM 1000 TO 1e+009
+out_mn6nvrms: INTEG(v(mn6))=0.000349515 FROM 1000 TO 1e+009
+out_mn4nvrms: INTEG(v(mn4))=0.00167099 FROM 1000 TO 1e+009
+out_mn3nvrms: INTEG(v(mn3))=0.00151606 FROM 1000 TO 1e+009
+out_rmnvrms: INTEG(v(rm))=8.21082e-005 FROM 1000 TO 1e+009
+
+
+Date: Fri Jan 14 20:52:13 2022
+Total elapsed time: 0.046 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 24
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 30
+fillins = 14
+solver = Normal
+Matrix Compiler1:     158 opcodes
+Matrix Compiler2: 3.02 KB object code size
